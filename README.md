@@ -1,4 +1,6 @@
-﻿Server_Tittle_Aion 
+🚀 **Join our community:**  
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Now-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/bJZyeezspg)
+ Server_Tittle_Aion 
  "Server_Tittle_Aion for C++ server in Node.js"
 Aion 3.5 PTS
 Aion 4.6 PTS
